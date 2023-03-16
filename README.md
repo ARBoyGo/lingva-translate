@@ -208,7 +208,7 @@ query {
 + [Lentil for Android](https://github.com/yaxarat/lingvaandroid) - Unofficial native client for Android that uses Lingva's public API
 + [Arna Translate](https://github.com/MahanRahmati/translate) - Unofficial cross-platform native client that uses Lingva's public API
 + [Translate-UT](https://github.com/walking-octopus/translate-ut) - Unofficial native client for Ubuntu Touch that uses Lingva's public API
-
++ [Translate You](https://github.com/Bnyro/TranslateYou) - Powerful Translator App built with Material Design 3 (You) supporting different translation engines.
 
 ## Contributors
 
